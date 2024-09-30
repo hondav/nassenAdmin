@@ -83,7 +83,7 @@ pnpm commit
 ```
 
 ### 文件资源目录 📚
-
+```text
 nassenAdmin
 ├─ .husky                  # husky 配置文件
 ├─ .vscode                 # VSCode 推荐配置
@@ -131,7 +131,7 @@ nassenAdmin
 ├─ README.md               # README 介绍
 ├─ tsconfig.json           # typescript 全局配置
 └─ vite.config.ts          # vite 全局配置文件
-
+```
 
 ### 浏览器支持 🌎
 
