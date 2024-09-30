@@ -1,22 +1,22 @@
 {
-  "name": "geeker-admin",
+  "name": "nassen-admin",
   "private": true,
   "version": "1.2.0",
   "type": "module",
-  "description": "geeker-admin open source management system",
+  "description": "nassen-admin open source management system",
   "author": {
-    "name": "Geeker",
+    "name": "nassen",
     "email": "848130454@qq.com",
     "url": "https://github.com/HalseySpicy"
   },
   "license": "MIT",
-  "homepage": "https://github.com/HalseySpicy/Geeker-Admin",
+  "homepage": "https://github.com/HalseySpicy/nassen-Admin",
   "repository": {
     "type": "git",
-    "url": "git@github.com:HalseySpicy/Geeker-Admin.git"
+    "url": "git@github.com:HalseySpicy/nassen-Admin.git"
   },
   "bugs": {
-    "url": "https://github.com/HalseySpicy/Geeker-Admin/issues"
+    "url": "https://github.com/HalseySpicy/nassen-Admin/issues"
   },
   "scripts": {
     "dev": "vite",

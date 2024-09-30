@@ -1,8 +1,8 @@
 <template>
   <div class="card content-box">
     <span class="text">
-      Gitee 仓库：
-      <a href="https://gitee.com/HalseySpicy/Geeker-Admin" target="_blank">https://gitee.com/HalseySpicy/Geeker-Admin</a> 🍒🍉🍊
+      GitHub 仓库：
+      <a href="https://github.com/hondav/nassenAdmin.git" target="_blank">https://github.com/hondav/nassenAdmin.git</a> 🍒🍉🍊
     </span>
   </div>
 </template>
