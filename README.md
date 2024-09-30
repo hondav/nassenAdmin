@@ -85,6 +85,7 @@ pnpm commit
 ### 文件资源目录 📚
 
 nassenAdmin
+├─ .husky                  # husky 配置文件
 ├─ .vscode                 # VSCode 推荐配置
 ├─ build                   # Vite 配置项
 ├─ public                  # 静态资源文件（该文件夹不会被打包）
@@ -119,7 +120,10 @@ nassenAdmin
 ├─ .prettierrc.cjs         # Prettier 格式化配置
 ├─ .stylelintignore        # 忽略 stylelint 格式化
 ├─ .stylelintrc.cjs        # stylelint 样式格式化配置
+├─ CHANGELOG.md            # 项目更新日志
+├─ commitlint.config.cjs   # git 提交规范配置
 ├─ index.html              # 入口 html
+├─ LICENSE                 # 开源协议文件
 ├─ lint-staged.config.cjs  # lint-staged 配置文件
 ├─ package-lock.json       # 依赖包包版本锁
 ├─ package.json            # 依赖包管理
